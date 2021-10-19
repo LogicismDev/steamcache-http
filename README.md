@@ -9,6 +9,7 @@ The primary use case is gaming events, such as LAN parties, which need to be abl
 This container is designed to support any game that uses HTTP and also supports HTTP range requests (used by Origin). This should make it suitable for:
 
  - Steam (Valve)
+ - Epic Games (Fortnite, Unreal Engine)
  - Origin (EA Games)
  - Riot Games (League of Legends)
  - Battle.net (Hearthstone, Starcraft 2, Overwatch)
