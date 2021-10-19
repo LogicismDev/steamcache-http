@@ -10,6 +10,7 @@ This container is designed to support any game that uses HTTP and also supports 
 
  - Steam (Valve)
  - Epic Games (Fortnite, Unreal Engine)
+ - Nintendo (eShop)
  - Origin (EA Games)
  - Riot Games (League of Legends)
  - Battle.net (Hearthstone, Starcraft 2, Overwatch)
