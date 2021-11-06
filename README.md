@@ -12,7 +12,7 @@ This container is designed to support any game that uses HTTP and also supports 
  - Epic Games (Fortnite, Unreal Engine)
  - Nintendo (eShop)
  - Origin (EA Games)
- - Riot Games (League of Legends)
+ - Riot Games (League of Legends, Teamfight Tactics, VALORANT, Wildrift)
  - Battle.net (Hearthstone, Starcraft 2, Overwatch)
  - Frontier Launchpad (Elite Dangerous, Planet Coaster)
  - Uplay (Ubisoft)
