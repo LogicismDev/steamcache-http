@@ -14,6 +14,7 @@ This container is designed to support any game that uses HTTP and also supports 
  - Origin (EA Games)
  - Riot Games (League of Legends, Teamfight Tactics, VALORANT, Wildrift)
  - Battle.net (Hearthstone, Starcraft 2, Overwatch)
+ - Riot Games (GTA IV, GTA V)
  - Frontier Launchpad (Elite Dangerous, Planet Coaster)
  - Uplay (Ubisoft)
  - Windows Updates
