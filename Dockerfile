@@ -1,5 +1,5 @@
 FROM nginx:alpine
-MAINTAINER SteamCache.Net Team <team@steamcache.net>
+MAINTAINER SteamCache.Net Team <team@steamcache.net> Logicism <blazewalker462@protonmail.com>
 
 COPY overlay/ /
 
